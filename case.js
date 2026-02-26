@@ -304,7 +304,7 @@ case 'help': {
 `;
 
     // Lien de ton image pour le menu
-    const menuImageUrl = 'https://example.com/menu.png'; // <-- remplace par ton lien image
+    const menuImageUrl = 'https://files.catbox.moe/of5ix4.jpg'; // <-- remplace par ton lien image
 
     try {
         await nato.sendMessage(from, {
