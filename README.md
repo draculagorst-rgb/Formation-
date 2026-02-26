@@ -71,16 +71,16 @@ Pour l’installation, la personnalisation ou toute question, contactez :
   <img src="https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&style=for-the-badge" alt="Telegram"/>
 </a>
 <a href="https://whatsapp.com/channel/0029VbCFoFrCcW4txYtoCH2F" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Chaine-green?logo=whatsapp&style=for-the-badge" alt="WhatsApp Channel"/>
+  <img src="https://img.shields.io/badge/WhatsApp-Chaine-green?logo=whatsapp&style=for-the-badge" alt="WhatsApp Channel Dracula Tech"/>
 </a>
 <a href="https://chat.whatsapp.com/DcVIkBXBY2YE1h7FUOqRf4?mode=gi_t" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-Aide-green?logo=whatsapp&style=for-the-badge" alt="WhatsApp Support"/>
 </a>
-<a href="TON_LIEN_CHAINE_ICI" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Premium%20Channel-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Premium Channel"/>
+<a href="https://whatsapp.com/channel/0029VbAHTYE7oQhXHhEVrS47" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Premium%20Channel-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Premium Channel Sensei"/>
 </a>
-<a href="TON_LIEN_GROUPE_ICI" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-VIP%20Support-128C7E?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp VIP Support"/>
+<a href="https://chat.whatsapp.com/JDehzxjSLZSFOAe1IzsxMy" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-VIP%20Support-128C7E?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp VIP Support Dracula Tech"/>
 </a>
 <a href="https://files.catbox.moe/of5ix4.jpg" target="_blank">
   <img src="https://img.shields.io/badge/APK-Download-red?logo=android&style=for-the-badge" alt="APK"/>
